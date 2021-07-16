@@ -34,7 +34,7 @@
 
 * 'git 원격 추가' 
 
-  * 'git 원격 추가 [국고][국수히]]
+  * 'git 원격 추가 [명칭][주소]]
 
   * 'git 리모컨 https://github.com/Woorim-lee/first.git 추가'
 
@@ -45,13 +45,13 @@
  추가 '원산지'인 리모드리 (원산지= [이수지]
 * 'git 원격 -v' : verbose (건수 2), 상수, 일리외 리베리에이어 는 클릭 수
 
-## 'git 푸시'
+## 'git push'
 
 원격 저장소에 코드 백업
 
-* 'git 푸시 [리트렌데렌] [시제스]'
-  * 'git 푸시 --셋업 스트림 오리진 마스터' : 극한원, 마지 마스터스
-  * 'git 푸시 오리진 마스터'
+* 'git push [리트렌데렌] [시제스]'
+  * 'git push --set -upstream origin master' : 아이디, 비밀번호
+  * 'git push origin master'
 
 
 
