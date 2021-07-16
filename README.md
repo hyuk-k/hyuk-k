@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 기술향상
 
 # KDT에서 배우고 싶은것
-스스로 학습 하는 법
+스스로학습하는 법
 
 # 을특강을 통해 배우고싶은것
 데이터사이선스
