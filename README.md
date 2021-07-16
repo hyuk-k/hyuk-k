@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @hyuk-k
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 hyuk-k/hyuk-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 기술향상
 
-# KDT에서 ㅂこここ
--스스로학습
+# KDT에서 배우고 싶은것
+스스로 학습 하는 법
 
 # 을특강을 통해 배우고싶은것
 데이터사이선스
